@@ -1,4 +1,4 @@
-#3 snapchat-webrtc
+## snapchat-webrtc
 
 ### How to clone snapchat using webrtc/AngularJS
 * What is WebRTC and why it matters
